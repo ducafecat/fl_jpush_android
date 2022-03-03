@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "330947772704",
+    "project_id": "splendid-world-286901",
+    "storage_bucket": "splendid-world-286901.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330947772704:android:af30ac8ad691cd2a481745",
+        "android_client_info": {
+          "package_name": "com.zykj.qubang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330947772704-n3s8e9a4al5lu2mq2qaklh8flvmdm4tj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zykj.qubang",
+            "certificate_hash": "12975ffa6d7a21a0bb28846a9a733aa1e2bc31df"
+          }
+        },
+        {
+          "client_id": "330947772704-sbjcf1rmir29l1sfssupe1lc39fggre7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zykj.qubang",
+            "certificate_hash": "62b1c9a81709ebeaf0870e72d2c66ba9f71bf8b6"
+          }
+        },
+        {
+          "client_id": "330947772704-tgr3gnh3cq500llf3c56poh5nleshenn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zykj.qubang",
+            "certificate_hash": "95299b61ac47eb34b5267b3b841e8d79a2208189"
+          }
+        },
+        {
+          "client_id": "330947772704-biu4a9v8fg90g4jksug45vbtf82h1rsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiZwDPEK9hidKRzNdAMLBXAz2E3kYlsvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330947772704-biu4a9v8fg90g4jksug45vbtf82h1rsg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "330947772704-dhfeohetus39ae0o29qd8np53sr46087.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zykj.qubang"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
